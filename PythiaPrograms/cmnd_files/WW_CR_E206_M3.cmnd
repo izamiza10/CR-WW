@@ -1,0 +1,14 @@
+Beams:idA = -11
+Beams:idB = 11
+PDF:lepton = off
+WeakDoubleBoson:ffbar2WW = on
+24:onMode = off
+24:onIfAny = 1 2 3 4 5
+ColourReconnection:reconnect = on
+ColourReconnection:forceResonance = on
+HadronLevel:Hadronize = off
+HadronLevel:Decay = off
+Print:quiet = on
+
+Beams:eCM = 206
+ColourReconnection:mode = 3
